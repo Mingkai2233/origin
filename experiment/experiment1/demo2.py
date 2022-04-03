@@ -1,0 +1,7 @@
+name = input("请输入你的姓名:")
+studientID = input("请输入你的学号:")
+yourClass = input("请输入你的班级:")
+print("******************************************")
+print('******姓名:{0}**********************'.format(name))
+print('******班级:{0}**********************'.format(studientID))
+print('******班级:{0}**********************'.format(yourClass))
